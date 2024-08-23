@@ -1,6 +1,6 @@
 # 👨‍💻 Raj Shekhar - Frontend Developer
 
-![Anime Header](https://media.giphy.com/media/1xVffTtJjcT29dpwAd/giphy.gif)
+![Anime Header](https://media.giphy.com/media/LEV3OJQG0XXnq/giphy.gif)
 
 ## About Me
 
@@ -34,7 +34,7 @@ Here are some of the projects I've worked on:
 ## 🎯 Hobbies
 
 - **Anime:** I enjoy watching anime and exploring different genres.
-  ![Anime GIF](https://media.giphy.com/media/WQOIEQRgiXZ1a/source.gif)
+  ![Anime GIF](https://media.giphy.com/media/qGbeKVV2p9Zo70E53g/giphy.gif)
 - **Fitness:** Staying fit is a big part of my life. I love working out and maintaining a healthy lifestyle. 🏋️‍♂️
 
 ## 📬 Contact Me
