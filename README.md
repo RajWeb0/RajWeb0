@@ -1,27 +1,48 @@
-# Hi there, I'm Raj Shekhar! 👋
+# 👨‍💻 Raj Shekhar - Frontend Developer
 
-🌟 **Frontend Web Developer** | 🚀 **Currently Learning Full Stack Development**
+![Anime Header](https://media.giphy.com/media/LEV3OJQG0XXnq/giphy.gif)
 
-I'm passionate about creating beautiful and functional web applications. As I continue to enhance my skills in full-stack development, I'm excited to share my journey and projects with you!
+## About Me
 
-## 🔧 Technologies & Tools
-- HTML5 | CSS3 | JavaScript | React | Node.js | Express | MongoDB
-- Version Control: Git & GitHub
-- UI/UX Design: Figma, Adobe XD
+Hello! I'm Raj Shekhar, a passionate frontend developer from India 🇮🇳, currently expanding my skills into full-stack development. I have a keen interest in working with legal companies and enjoy keeping up with the latest trends in web development. When I'm not coding, you'll find me watching anime 🎥 or hitting the gym 💪.
 
-## 🎯 Current Focus
-I'm currently diving deep into full-stack development, learning to build robust and scalable web applications.
+## 💻 Skills
 
-## 📧 Let's Connect!
-- **Gmail**: [rajweb24@gmail.com](mailto:rajweb24@gmail.com)
-- **LinkedIn**: [Raj Shekhar](https://www.linkedin.com/in/raj-shekhar-799898214/)
+- **Frontend Development:** HTML, CSS, JavaScript, React, Vue.js
+- **Backend Development:** (Learning) Node.js, Express.js, MongoDB
+- **Responsive Design:** Ensuring websites look great on all devices 📱💻
+- **Version Control:** Git & GitHub
 
-## 🎬 Hobbies
-- **Watching Anime** 🎥: I love immersing myself in different worlds through anime. *(Feel free to recommend some!)*
+## 🚀 Current Focus
 
-![Anime GIF](https://media.giphy.com/media/3o7aD7T7q2g8TYOWA8/giphy.gif)
+I am currently focused on learning full-stack development, with an aim to build end-to-end web applications. My journey includes mastering backend technologies and integrating them with my frontend expertise.
 
-## 🌱 Let's Collaborate!
-I'm always open to collaborating on exciting projects. Whether it's frontend design, backend logic, or full-stack development, let's build something amazing together!
+## 🌟 Projects
 
-![Let's Collaborate GIF](https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif)
+Here are some of the projects I've worked on:
+
+1. **Amazing Portfolio**
+   - Description: Brief description of the project (soon).
+   - Technologies Used: HTML, CSS, JavaScript, [Other Technologies]
+   - [Link to Project](#)
+
+2. **Project Management Tool**
+   - Description: Brief description of the project (soon).
+   - Technologies Used: HTML, CSS, React, [Other Technologies]
+   - [Link to Project](#)
+
+## 🎯 Hobbies
+
+- **Anime:** I enjoy watching anime and exploring different genres.
+  ![Anime GIF](https://media.giphy.com/media/qGbeKVV2p9Zo70E53g/giphy.gif)
+- **Fitness:** Staying fit is a big part of my life. I love working out and maintaining a healthy lifestyle. 🏋️‍♂️
+
+## 📬 Contact Me
+
+Feel free to reach out to me if you want to collaborate on a project or just chat about technology, anime, or fitness!
+
+- **Email:** your-email@example.com
+- **LinkedIn:** [Raj Shekhar's LinkedIn](https://www.linkedin.com/in/raj-shekhar-799898214/)
+- **GitHub:** [GitHub Profile](#)
+
+![Footer Anime](https://media.giphy.com/media/8YutMatqkTfSE/giphy.gif)
